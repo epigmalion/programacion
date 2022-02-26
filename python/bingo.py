@@ -7,7 +7,7 @@ while len(numeros) < 90:
        continue
     numeros.append(bola)
     print ('El...', bola)
-print ('Extraccion finalidad, los números han sido...')
+print ('Extraccion finalizada, los números han sido...')
 print (numeros)
 print ('Un total de',len(numeros),'bolas')
 print ('Ordenando las bolas de nuevo...')
