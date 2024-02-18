@@ -1,5 +1,5 @@
 import random
-# I Also like oranges
+# I Also like oranges but not apples
 numeros = []
 while len(numeros) < 90:
     bola = random.randrange(1,91)
